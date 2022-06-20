@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Barbero-Attempt_1</string>
+    <string name="new_here_n_sign_up_now">New here? \n Sign up NOW</string>
+    <string name="oh_you_ve_been_here_before">Oh, you\'ve been here before?</string>
+    <string name="new_here">New Here?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="e_mail">E-mail</string>
+    <string name="welcome_to_barbero">Welcome to Barbero</string>
+    <string name="logo">logo</string>
+</resources>

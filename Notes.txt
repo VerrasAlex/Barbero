@@ -1,0 +1,47 @@
+COLORS
+#B88B04 κιτρινωπο
+#E1E1E1 λευκογκριζο
+#939393 hint
+#F4F4F4 almost white (background view)
+#3A3A3A almost black (background view dark mode)
+#272727  almost black (text color)
+#717171 grey (hint)
+#00A5FF bledizei
+#F44336 portokalokokkino
+
+FONTS app
+1)cookie
+2)berkshire_swash
+3)cherry_swash
+4)condiment
+5)cursive
+6)arizonia
+7)calligraffitti
+8)charm_bold
+9)charmonman_bold
+10)croissant_one
+11)
+
+FONTS logo
+1)Anastasia Script (close but no cigar)
+2)Alex Brush (close but no cigar)
+3)Good Vibrations (probably cigar)
+
+
+
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+</LinearLayout>
+
+<android.support.percent.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</android.support.percent.PercentFrameLayout>
