@@ -17,8 +17,8 @@ public class BarberoStart extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_barbero_start);
 
-        sign_in_btn = (TextView)findViewById(R.id.sign_in_btn);
-        sign_up_btn = (TextView) findViewById(R.id.sign_up_btn);
+        sign_in_btn = findViewById(R.id.sign_in_btn);
+        sign_up_btn = findViewById(R.id.sign_up_btn);
 
 
         sign_in_btn.setOnClickListener(new View.OnClickListener() {
